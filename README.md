@@ -6,7 +6,7 @@ Serão criadas 4 máquinas sendo elas:
 
 * master  - Máquina master do cluster k8s.
 * minion1 - Nó 1 do cluster k8s. 
-* minion2 - Nó 1 do cluster k8s. 
+* minion2 - Nó 2 do cluster k8s. 
 * storage - Servidor NFS (Network File System)
 
 ### Pré-Requisitos:
