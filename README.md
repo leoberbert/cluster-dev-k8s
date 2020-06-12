@@ -12,6 +12,7 @@ Serão criadas 4 máquinas sendo elas:
 ### Pré-Requisitos:
 
 Vagrant (https://www.vagrantup.com/docs/installation)
+
 VirtualBox(https://www.virtualbox.org/wiki/Downloads)
 
 ### Passo a Passo da instalação:
